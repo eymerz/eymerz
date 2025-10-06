@@ -5,12 +5,12 @@
 ---
 
 ### 💡 About Me
-I am a **focused and disciplined developer** with a good deal of passion in **cybersecurity and clean design**.  
-**My goal is to set up systems and build tools that are **very secured, very fast**.
-My dream was always to be a cybersecurity engineer. I began this journey in middle school and was very interested in it.
-I was always curious about how systems worked, what was going on behind the scenes.
-I first started finding vulnerabilities in systems by asking "what if" and "why?".
-I asked myself questions like, "Why is it saying this here? What would happen if I did this?" That's how I got here.
+I am a **focused and disciplined developer** with a good deal of passion in **cybersecurity and clean design**.<br>
+**My goal is to set up systems and build tools that are **very secured, very fast**.<br>
+My dream was always to be a cybersecurity engineer. I began this journey in middle school and was very interested in it.<br>
+I was always curious about how systems worked, what was going on behind the scenes.<br>
+I first started finding vulnerabilities in systems by asking "what if" and "why?".<br>
+I asked myself questions like, "Why is it saying this here? What would happen if I did this?" That's how I got here.<br>
 
 
 ---
