@@ -1,16 +1,56 @@
-## Hi there 👋
+# 👋 Hi, I'm Eymen
 
-<!--
-**eymerz/eymerz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> _"Discipline builds what talent alone cannot."_
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 About Me
+I am a **focused and disciplined developer** with a good deal of passion in **cybersecurity and clean design**.  
+**My goal is to set up systems and build tools that are **very secured, very fast**.
+My dream was always to be a cybersecurity engineer. I began this journey in middle school and was very interested in it.
+I was always curious about how systems worked, what was going on behind the scenes.
+I first started finding vulnerabilities in systems by asking "what if" and "why?".
+I asked myself questions like, "Why is it saying this here? What would happen if I did this?" That's how I got here.
+
+
+---
+
+### ⚙️ Technical Skills
+- **Languages:** Im Learning!
+- **OS:** Windows and Linux  
+- **Tools & Environments:** Linux, 
+- **Focus Areas:** Automation, Web Security, OSINT
+### Skills & Strengths
+- Network traffic analysis (basic to intermediate level)  
+- Security scanning and vulnerability assessment
+- OSINT intelligence research  
+- Ethical hacking 
+- Fast learning with strong motivation to improve my coding and cybersecurity skills  
+---
+
+### 🧠 What Defines My Work
+- ⚔️ Security-First: I examine every system with an emphasis on defense and resilience. 
+- 🕵️ Inquisitiveness: I investigate, experiment, and scrutinize every detail to comprehend all functionalities and failures.
+- ⚙️ Discipline Over Luck: I contend that consistent work is preferable to sheer talent.
+- 🔐 Ethical by Principle: I always do my job with ethics and laws.
+
+---
+
+### 🏗️ Projects
+- **Encryption Tool:** I made a unique cipher format to unreadable some personal text files for my own protection. (its look like `0x*000aaa`).
+- **OSINT & Security Scripts:** I created a tool for analyzing and parsing online information efficiently.
+
+---
+
+### 🎯 Current Focus
+- Developing my cybersecurity and Python programming skills
+
+- Improving my everything about cybersec.
+
+- I aim to establish a security infrastructure supported by a secure, unbreakable and solid log system.
+---
+
+### Contact
+- Email: eymeneruzun@gmail.com  
+
+---
