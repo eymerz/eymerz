@@ -18,8 +18,9 @@ I asked myself questions like, "Why is it saying this here? What would happen if
 ### ⚙️ Technical Skills
 - **Languages:** Im Learning!
 - **OS:** Windows and Linux  
-- **Tools & Environments:** Linux, 
+- **Tools & Environments:** Linux commands, problem solving, A lot of security scan tool. 
 - **Focus Areas:** Automation, Web Security, OSINT
+  
 ### Skills & Strengths
 - Network traffic analysis (basic to intermediate level)  
 - Security scanning and vulnerability assessment
@@ -32,7 +33,7 @@ I asked myself questions like, "Why is it saying this here? What would happen if
 - ⚔️ Security-First: I examine every system with an emphasis on defense and resilience. 
 - 🕵️ Inquisitiveness: I investigate, experiment, and scrutinize every detail to comprehend all functionalities and failures.
 - ⚙️ Discipline Over Luck: I contend that consistent work is preferable to sheer talent.
-- 🔐 Ethical by Principle: I always do my job with ethics and laws.
+- 🔐 Ethical by Principle: I always do my job with in ethics and laws.
 
 ---
 
